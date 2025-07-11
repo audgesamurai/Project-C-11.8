@@ -1,3 +1,13 @@
+// ============================================================
+// Project: Programming Project 11.14.8 - Towers of Hanoi Iterator
+// Description: Builds a DiskMover class that gives each move one 
+//              at a time using next_move(). has_more_moves() checks 
+//              if it's done. Handles the full puzzle logic.
+// Coder: Audrey Tapia
+// Tester: Ashley
+// Team Members: Audrey, Giannfranco, Ashley, Heily
+// ============================================================
+
 #include <iostream>
 #include <string>
 using namespace std;
